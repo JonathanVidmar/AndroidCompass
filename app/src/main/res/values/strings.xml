@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidSuperCompass</string>
+    <string name="edit_message">Enter a message!</string>
+    <string name="button_send">Bring me the Compass!</string>
+    <string name="action_settings">Wat??</string>
+    <string name="title_activity_compass">CompassActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>
